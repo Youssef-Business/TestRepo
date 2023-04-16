@@ -1,0 +1,10 @@
+{
+    "currentAdNetwork": "AdMob"
+    
+    "admobAppId": "your-admob-app-id",
+    "admobBannerId": "your-admob-banner-id",
+    "admobInterstitialId": "your-admob-interstitial-id",
+    "unityGameId": "your-unity-game-id",
+    "unityBannerPlacementId": "your-unity-banner-placement-id",
+    "unityInterstitialPlacementId": "your-unity-interstitial-placement-id",
+}
