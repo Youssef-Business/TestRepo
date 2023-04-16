@@ -1,10 +1,9 @@
 {
     "currentAdNetwork": "Admob",
-    
     "admobAppId": "admobAppId",
     "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
     "unityGameId": "UnityGameId",
     "unityBannerPlacementId": "Youssef",
-    "unityInterstitialPlacementId": "Hello World"
+    "unityInterstitialPlacementId": "Hello_World"
 }
